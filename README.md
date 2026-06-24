@@ -1,8 +1,5 @@
 # 🚦 Smart City Traffic Analytics
 
-**Developer:** Aadil Hasan  
-**Registration Number:** 5000  
-
 A full-stack computer vision application designed to transform standard top-down traffic camera feeds into intelligent, real-time diagnostic sensors. Built for modern urban infrastructure, this system eliminates the need for expensive physical road sensors by utilizing edge AI to calculate lane density, monitor congestion, and estimate vehicle velocity on the fly.
 
 ---

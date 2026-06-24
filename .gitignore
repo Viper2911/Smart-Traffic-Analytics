@@ -4,4 +4,3 @@ core/__pycache__/
 .streamlit/
 *.mp4
 *.avi
-*.pt

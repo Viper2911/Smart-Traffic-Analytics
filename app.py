@@ -5,7 +5,6 @@ from core.tracker import process_traffic_stream
 
 st.set_page_config(page_title="Traffic Analytics Hub", layout="wide")
 st.title("🚦 Smart City Traffic Density & Speed Analyzer")
-st.markdown("**Developer:** Aadil Hasan | **Reg No:** 5000")
 
 uploaded_video = st.file_uploader("Upload Traffic Video (MP4, AVI)", type=['mp4', 'avi'])
 
